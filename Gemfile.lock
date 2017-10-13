@@ -210,7 +210,7 @@ PLATFORMS
 
 DEPENDENCIES
   byebug
-  capybara (~> 2.13)
+  capybara (~> 2.15, >= 2.15.4)
   coffee-rails (~> 4.2)
   database_cleaner (~> 1.6, >= 1.6.1)
   devise (~> 4.3)
